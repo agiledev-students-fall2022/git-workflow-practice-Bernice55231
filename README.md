@@ -10,3 +10,5 @@ Functional requirements are ususally the most important thing that software deve
 ### Elaine Shan's comment:
 When designing the software architecture, we need to consider both the functional and nunfunctional requirement. This article is very useful to the software engineers because it provides a list of software architecture charactersitcs that may be essential for software developers to consider. 
 
+### Larry Li's comment:
+This website offered me valuable insights on what should be considered when planning and building software. The cheat sheet was very illustrative and easy to use.
